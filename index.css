@@ -13,7 +13,16 @@ body {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
-.img {
+.Div_P {
+  margin-top: 50px;
+}
+.divsito {
   width: 850px;
   height: 850px;
+  display: inline-block;
+}
+.img {
+  width: 100%;
+  height: 100%;
+  display: inline;
 }
